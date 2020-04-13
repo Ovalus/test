@@ -1,0 +1,36 @@
+.main{
+  background-color: #142850;
+  text-align: center;
+  padding-top: 9rem;
+  padding-bottom: 8rem;
+  position: relative;
+  overflow: hidden;
+}
+.processor{
+  position: absolute;
+  top:-30%;
+  left:-100px;
+
+}
+.circuit{
+  position: absolute;
+  right:0;
+}
+.head{
+  position: relative;
+  z-index: 1;
+}
+.name{
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.5rem;
+  color: white;
+}
+.des{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: -50px;
+  font-size: 1.8rem;
+  color: #00a8cc;
+}
+body{
+  margin: 0;
+}
